@@ -3,7 +3,7 @@ Hi 👋 My name is Rishabh Singh
 
 A passionate web developer.
 ---------------------------
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Ayush211107&icon=9&color=10" alt="Ayush211107" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Rishabh705&icon=9&color=10" alt="My profile views" /> </p>
 
 * 🌍  I'm based in Varanasi, India
 * 🖥️  See my portfolio at [MyPortfolio](http://rishabh705-portfolio.vercel.app/)
