@@ -5,7 +5,7 @@ A passionate web developer.
 ---------------------------
 ![](https://komarev.com/ghpvc/?username=Rishabh705&color=green)
 
-* 🌍  I'm based in Varanasi, India
+* 🌍  I live in Varanasi, India
 * 🖥️  See my portfolio at [MyPortfolio](http://rishabh705-portfolio.vercel.app/)
 * ✉️  You can contact me at [rishabh0739@gmail.com](mailto:rishabh0739@gmail.com)
 * 🤝  I'm open to collaborating on any project related to my skills.
