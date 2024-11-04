@@ -1,8 +1,6 @@
 Hi 👋 My name is Rishabh Singh
 ==============================
 
-A passionate developer.
----------------------------
 ![](https://komarev.com/ghpvc/?username=Rishabh705&color=green)
 
 * 🌍  I live in Varanasi, India
