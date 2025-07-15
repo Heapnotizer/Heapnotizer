@@ -1,7 +1,7 @@
 ![My Banner](https://raw.githubusercontent.com/RAZOR099/RAZOR099/master/cropped.png)
 
 ## 💫 About Me:
-🌍 **Location**: I live in Varanasi in India, where the rich history and culture inspire my creativity.<br><br>🖥️ **Portfolio**: Check out my work at [MyPortfolio](http://RAZOR099-portfolio.vercel.app/), where I showcase my projects, skills, and the journey of my coding adventures.<br><br>✉️ **Contact**: Feel free to reach out to me at rishabh0739@gmail.com. I'm always open to discussions, whether it's about tech, projects, or just a friendly chat!<br><br>🤝 **Collaboration**: I'm eager to collaborate on projects that align with my skills in web development, open source, or any innovative ideas you have. Let's build something amazing together!
+🌍 **Location**: I live in Varanasi in India, where the rich history and culture inspire my creativity.<br><br>🖥️ **Portfolio**: Check out my work at [MyPortfolio](http://rishabh099.vercel.app/), where I showcase my projects, skills, and the journey of my coding adventures.<br><br>✉️ **Contact**: Feel free to reach out to me at rishabh0739@gmail.com. I'm always open to discussions, whether it's about tech, projects, or just a friendly chat!<br><br>🤝 **Collaboration**: I'm eager to collaborate on projects that align with my skills in web development, open source, or any innovative ideas you have. Let's build something amazing together!
 
 
 ## 🌐 Let's Catch up:
